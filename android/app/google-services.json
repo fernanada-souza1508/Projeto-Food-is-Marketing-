@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512935510845",
+    "project_id": "projetolojasalgados",
+    "storage_bucket": "projetolojasalgados.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512935510845:android:db3c9784364c00c212bb54",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOo2SJEmCntB5FewqcWtlyudGuCIjZzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
